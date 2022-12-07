@@ -1,0 +1,23 @@
+.error-message {
+    color: red;
+    background: lightgrey;
+    border: solid red;
+    padding: 16px;
+    margin-bottom: 16px;
+    font-size: 20px;
+}
+
+.success-message {
+    color: green;
+    background: lightgrey;
+    border: solid green;
+    padding: 16px;
+    margin-bottom: 16px;
+    font-size: 20px;
+}
+
+.blog {
+    padding: 16px;
+    border: 2px solid black;
+    margin: 8px 0;
+}
